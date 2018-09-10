@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="label">Contagem:</string>
+    <string name="botaoMais">+1</string>
+    <string name="botaoMenos">-1</string>
+    <string name="botaoZera">ZERAR CONTAGEM</string>
+    <string name="contador"></string>
+    <string name="number" />
+</resources>
